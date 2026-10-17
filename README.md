@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm MJ</h1>
+<h3 align="center">A passionate KINDA developer from Indonesia</h3>
 
-<!--
-**superRextraMJ/superRextraMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **mjsarchive@icloud.com**
 
-Here are some ideas to get you started:
+- ⚡ Fun fact **i love frieren**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/xxosxeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxosxeo" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superrextramj&show_icons=true&theme=tokyonight&locale=en" alt="superrextramj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superrextramj&theme=dark" alt="superrextramj" /></p>
